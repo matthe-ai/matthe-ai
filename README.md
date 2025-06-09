@@ -6,6 +6,6 @@
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
-  - Building server-side applications with Django, a powerful Python web framework.
+  - Building server-side applications with Flask, a powerful Python web micro-framework.
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
