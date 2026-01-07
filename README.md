@@ -13,10 +13,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://palletsprojects.com/projects/flask" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -37,7 +37,3 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matthe-ai&show_icons=true&locale=en&layout=compact" alt="matthe-ai" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matthe-ai&show_icons=true&locale=en" alt="matthe-ai" /></p>
