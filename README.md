@@ -43,12 +43,6 @@
 
 ###
 
-<img align="right" height="150" src="https://forum.thd.vg/attachments/cruxiat-gif.59839/"  />
-
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/matthe-ai/matthe-ai/output/snake.svg" alt="Snake animation" />
 
 ###
